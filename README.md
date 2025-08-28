@@ -65,5 +65,5 @@ Deploy on Cloud (AWS/GCP/Heroku)
 👨‍💻 Author
 
 Ms.Anamta Ahmed
-💼 LinkedIn - https://www.linkedin./in/anam/](https://www.linkedin.com/in/anamta-ahmed-26a86a31a/
+💼 LinkedIn -https://www.linkedin.com/in/anamta-ahmed-26a86a31a/
 📧 Email: itsanamta786@gmail.com
